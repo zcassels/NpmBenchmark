@@ -1,0 +1,1 @@
+docker run -it --entrypoint bash -v "$(pwd)/scripts":/root/scripts --rm node-tester /root/scripts/benchmark.sh
