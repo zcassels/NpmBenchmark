@@ -1,0 +1,27 @@
+{
+  "name": "junk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "chrome": "^0.1.0",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0",
+    "node-sass": "^9.0.0",
+    "npm": "^10.1.0",
+    "react": "^18.2.0",
+    "shelljs": "^0.8.5"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.20",
+    "@babel/preset-env": "^7.22.20",
+    "core-js": "^3.32.2"
+  }
+}
